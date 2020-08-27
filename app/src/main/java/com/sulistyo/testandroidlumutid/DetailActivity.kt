@@ -19,7 +19,7 @@ class DetailActivity : AppCompatActivity() {
         val title = intent.getStringExtra("titel")
         tvDetail.text = title
 
-       
+
     }
 
     //untuk mengambil data detail dari server
